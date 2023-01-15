@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> Attestation scolaire</h1>
+<br/>
+<br/>
+<b>firstname :</b>  $name <br/>
+<b>LastName : </b> $lastname <br/>
+<b> Cin :</b> $Cin <br/>
+<b> Birthday :</b> $Birthday <br/>
+This file is generated on : $genDateTime
+</body>
+</html>
